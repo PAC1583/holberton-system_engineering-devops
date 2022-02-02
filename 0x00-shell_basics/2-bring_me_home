@@ -1,2 +1,2 @@
 #!/bin/bash
-source myFunction.sh; my_cd
+my_cd 
