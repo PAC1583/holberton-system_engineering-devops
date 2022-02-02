@@ -1,3 +1,2 @@
 #!/bin/bash
-source myFunction.sh
-my_cd
+source myFunction.sh; my_cd
