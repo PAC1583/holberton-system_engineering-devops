@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt  |head -n 10 | tail -n 9| tee test | awk '{print $9}'
